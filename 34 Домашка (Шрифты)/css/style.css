@@ -1,9 +1,9 @@
 .some-text {
     font-family: "Open Sans", "Arial", sans-serif;
-    font-size: 20px;
+    font-size: 35px;
     line-height: 30px;
     text-align: justify;
-    font-weight: normal;
+    font-weight: 300;
     font-style: italic;
 }
 
@@ -44,4 +44,5 @@
     font-weight: 500;
     text-decoration: underline double;
     letter-spacing: 5px;
+
 }
