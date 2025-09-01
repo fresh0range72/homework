@@ -1,0 +1,47 @@
+.some-text {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.next-text {
+    font-family: "Cormorant", 'Times New Roman' serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+
+.nextdoor-text {
+    font-family: "Cormorant", 'Times New Roman' serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.window-text {
+    font-family: "Cormorant", 'Times New Roman' serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    font-weight: 500;
+    word-spacing: 30px;
+    text-decoration: overline wavy;
+    text-shadow: 2px 1.5px 3px purple;
+}
+
+.nextwindow-text {
+    font-family: "Cormorant", 'Times New Roman' serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 500;
+    text-decoration: underline double;
+    letter-spacing: 5px;
+}
