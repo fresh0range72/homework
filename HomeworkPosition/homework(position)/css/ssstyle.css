@@ -1,0 +1,31 @@
+body {
+    background: #262628;
+}
+
+.text {
+    font-family: "Arial", sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 90px;
+    position: absolute;
+    top: 70%;
+    left: 53%;
+}
+
+.rectangle {
+    height: 125px;
+    width: 1200px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 10px;
+    top: 75%;
+    left: 50%;
+    z-index: -1;
+}
