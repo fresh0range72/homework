@@ -26,7 +26,7 @@ body {
     border-color: aliceblue;
     border-style: solid;
     position: relative;
-    transform: translate(113px, -58px);
+    transform: translate(73px, -58px);
 }
 
 .title::before {
@@ -40,4 +40,5 @@ body {
     border-style: solid;
     position: relative;
     transform: translate(612px, 72px);
+
 }
