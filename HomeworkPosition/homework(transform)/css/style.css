@@ -59,12 +59,10 @@
 }
 
 .quads__quad--blue {
-    position: absolute;
-    top: 135px;
-    left: 1091px;
-    transform: scale(2);
+    transform: translate(836px, -294px) scale(2);
 }
 
 .quads__quad--green {
     transform: rotate(25deg) translate(328px, -256px);
+
 }
